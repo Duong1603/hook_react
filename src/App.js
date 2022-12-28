@@ -7,7 +7,7 @@
 //   prevCount = count;
 // }, [count]);
 
-// example use callback
+// example use callback and useSate
 // const handleClick = useCallback(() => setCount(count + 1), [count]);
 // return (
 //   <div className="App">
